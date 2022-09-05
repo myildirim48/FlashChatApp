@@ -15,7 +15,7 @@ class ChatViewController: UIViewController {
     @IBOutlet weak var messageTextfield: UITextField!
     
     var messages: [Message] = [
-        Message(sender: "1@2.com", body: "Hey"),
+        Message(sender: "1@2.com", body: "Heyy"),
         Message(sender: "a@b.com", body: "Hello!"),
         Message(sender: "1@2.com", body: "What's up")
     ]//
