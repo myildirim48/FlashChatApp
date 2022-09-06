@@ -4,18 +4,18 @@ FlashChat app with firebase
 This is my tutorial app.
 
 
-##Tools
-*Swift
-  *UIKit
-    *Navigation Controller
-    *UITableView
+## Tools
+* Swift
+  * UIKit
+    * Navigation Controller
+    * UITableView
     
-##Design Pattern
-*MVC
+## Design Pattern
+* MVC
 
-##3rd party library
-*Cocoapods -> CLTypingLabel(for animation),IQKeyboardManager(for setting the keyboard)
+## 3rd party library
+* Cocoapods -> CLTypingLabel(for animation),IQKeyboardManager(for setting the keyboard)
 
-##Database
-*Firebase -> Add,Delete,Retriev,Login,Log Out
+## Database
+* Firebase -> Add,Delete,Retriev,Login,Log Out
 
