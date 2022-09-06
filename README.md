@@ -1,8 +1,9 @@
 # FlashChatApp
 FlashChat app with firebase
-
+<br>
+This is my tutorial app.
 <hr>
-This is my tutorial app
+
 <br>
 -Cocoapods -> CLTypingLabel(for animation),IQKeyboardManager(for setting the keyboard)
 <br>
