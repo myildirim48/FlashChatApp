@@ -14,8 +14,16 @@ This is my tutorial app.
 * MVC
 
 ## 3rd Party Library
-* Cocoapods -> CLTypingLabel(for animation),IQKeyboardManager(for setting the keyboard)
+* Cocoapods
+  * CLTypingLabel(for animation)
+  * IQKeyboardManager(for setting the keyboard)
 
 ## Database
-* Firebase -> Add,Delete,Retriev,Login,Log Out
+* Firebase 
+  * Add
+  * Delete
+  * Retrieve
+  * Login
+  * Log Out
+  * Sort by date
 
