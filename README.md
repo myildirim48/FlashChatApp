@@ -6,14 +6,14 @@ This is my tutorial app.
 
 ## Tools
 * Swift
-  * UIKit
-    * Navigation Controller
-    * UITableView
+* UIKit
+  * Navigation Controller
+  * UITableView
     
 ## Design Pattern
 * MVC
 
-## 3rd party library
+## 3rd Party Library
 * Cocoapods -> CLTypingLabel(for animation),IQKeyboardManager(for setting the keyboard)
 
 ## Database
